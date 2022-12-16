@@ -1,0 +1,2061 @@
+# genesisd q staking validators --height 4928132
+pagination:
+  next_key: null
+  total: "0"
+validators:
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.100000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2021-12-14T14:42:47.433291537Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: wmE/g+QNsAXET4tSL+I0t+rM/Jgm3RQ0PUwdHxWexfs=
+  delegator_shares: "239028199387971103762231.000000000000000000"
+  description:
+    details: ""
+    identity: ""
+    moniker: bgvcvaloper
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1qf0nkx5f3vz66fe3he4twf58kkfqcj3ly2favh
+  status: BOND_STATUS_BONDED
+  tokens: "239028199387971103762231"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.100000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-09-09T04:36:16.447953247Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: hQweDcxwOQiZxdaOn3JR0eHPuimADzxZTnO/hEK50m4=
+  delegator_shares: "108700848918746407487476.000000000000000000"
+  description:
+    details: A team of professional and reliable validators. Safety first.Stake with
+      us and profit with the mark of quality. Monitoring 25\7
+    identity: F2F91999ECCC092F
+    moniker: STAVR
+    security_contact: ""
+    website: https://github.com/obajay
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1p4n3fy8wqmn4ja0fp4lenaemyzlxrp6ysrhxfj
+  status: BOND_STATUS_BONDED
+  tokens: "108700848918746407487476"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.100000000000000000"
+      rate: "0.080000000000000000"
+    update_time: "2022-08-26T00:21:42.334137058Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: 3JOkKXxTv/w1k4UlAXc5f4poLOZRddDvBx1ph0qWAhY=
+  delegator_shares: "414390716516600271329978.000000000000000000"
+  description:
+    details: ""
+    identity: ""
+    moniker: Oxygen Nordic
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1p6scnv358fry74stgsgr763njmdpm29fvttfsd
+  status: BOND_STATUS_BONDED
+  tokens: "414390716516600271329978"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.070000000000000000"
+    update_time: "2022-01-12T18:01:02.035896018Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: l9+BApeuZjqPLftG+MWa/kBSMVCSFg4Iy7BNSK5oexE=
+  delegator_shares: "99000000000000000000.000000000000000000"
+  description:
+    details: ""
+    identity: ""
+    moniker: istraonline
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1zzmku9te4u9wz5pe0uazjf6xmsreagmhtnfalj
+  status: BOND_STATUS_UNBONDED
+  tokens: "96060000000000000000"
+  unbonding_height: "655814"
+  unbonding_time: "2022-01-16T20:08:36.380758025Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.030000000000000000"
+    update_time: "2022-02-18T18:23:01.304057794Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: W84WsbWjsjt1uf+br8GP1FPL3pnzFKMjnBRzPPQq4Es=
+  delegator_shares: "500000000000000000.000000000000000000"
+  description:
+    details: ""
+    identity: ""
+    moniker: istra33
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1rvy9x4eantgzjw6540ge4gfeus7yjx5w3vhmef
+  status: BOND_STATUS_UNBONDED
+  tokens: "500000000000000000"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.080000000000000000"
+    update_time: "2022-07-29T01:29:27.781780066Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: aV8vIcNvAaaDJSCmnnM44oPKyNYRv5EH/2MqsCiMLTY=
+  delegator_shares: "103702181227438823597.761781506544354965"
+  description:
+    details: ""
+    identity: ""
+    moniker: MITHRIL
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1r4vvqh77dpr6egfdp2r0lmjexyv32lgcxxf7vc
+  status: BOND_STATUS_UNBONDED
+  tokens: "100601999999996854277"
+  unbonding_height: "3559966"
+  unbonding_time: "2022-08-10T00:42:37.229787212Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-06-22T12:04:11.967081237Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: THE8elHkRlYXySlDmY5YaQiboJbRrOBHp5TFzDovk/A=
+  delegator_shares: "17562234386240276244184.000000000000000000"
+  description:
+    details: ""
+    identity: ""
+    moniker: mark_dxb
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1rm22dz6qzyc5wv9da9mt26k5egsm2nwd2za73p
+  status: BOND_STATUS_BONDED
+  tokens: "17562234386240276244184"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2021-12-04T04:48:31.121502346Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: qk8NefN7FNnxbVRyrKxdLV/CprEx+JPvO3HAiQ1IR7A=
+  delegator_shares: "10101010101010101010.101010101010101011"
+  description:
+    details: ""
+    identity: ""
+    moniker: Avalon
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1yrhr3htv77uzhmvr36vmtrcryywxyalgth0ra5
+  status: BOND_STATUS_UNBONDED
+  tokens: "10000000000000000001"
+  unbonding_height: "1652233"
+  unbonding_time: "2022-03-25T23:26:52.258981976Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-02-04T06:53:46.278999498Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: JjWlkU2ItLjsWIshgYhTP4mn0wDZ/8JjOkWGQQzeShw=
+  delegator_shares: "98000000000000000000.000000000000000000"
+  description:
+    details: ""
+    identity: ""
+    moniker: mcb
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper19g4478jj95v9xln85j684gc6ek7khcgnwp0zyl
+  status: BOND_STATUS_UNBONDED
+  tokens: "97020000000000000000"
+  unbonding_height: "998092"
+  unbonding_time: "2022-02-09T09:18:22.915553709Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.100000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-10-17T05:29:58.345934135Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: /Moj5Nltbanu9Gu3OHcoJPvqxQnqDvsaq69tgD4fDNc=
+  delegator_shares: "38011292254958735603960.000000000000000000"
+  description:
+    details: ""
+    identity: 4207C3C38B9215C0
+    moniker: farukyasar
+    security_contact: ""
+    website: https://github.com/farukyasar
+  jailed: true
+  min_self_delegation: "1"
+  operator_address: genesisvaloper1x9sry0ekemxy9f9laxktwqf3607zpdrz8q7wvt
+  status: BOND_STATUS_UNBONDING
+  tokens: "38007491154958735603960"
+  unbonding_height: "4866324"
+  unbonding_time: "2022-12-02T06:06:56.107869315Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-09-20T21:49:04.650326027Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: lHKp/pNNR+z6uj2uXmvUc4Xu9sl+EyuDKv8XXopYEAQ=
+  delegator_shares: "20086683930655184117071.000000000000000000"
+  description:
+    details: ""
+    identity: ""
+    moniker: hermione
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1x2vtzqrgr5azxu4m5we09qn4pht3v2desd5m5t
+  status: BOND_STATUS_BONDED
+  tokens: "20086683930655184117071"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.070000000000000000"
+    update_time: "2022-09-01T13:31:03.966741433Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: 14bnE1fd9AgghBJFQrjWzEqfDv9CfNdEfpuegpQHeiQ=
+  delegator_shares: "580425063866028733295743.000000000000000000"
+  description:
+    details: Zenode! Allow for the current to flow, conduct and bring forth thy ode
+      of care to those bonded by trust!
+    identity: 26782812AA385AF2
+    moniker: anodeofzen
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1x4sj6d9r9scxef8urmdfxcx37ut7yk2s2m8r68
+  status: BOND_STATUS_BONDED
+  tokens: "580425063866028733295743"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-09-22T00:56:40.647908687Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: xFuZ1T064gJh5uJKFON6nxVtY3UWHB3/JDx/Y+jbWZk=
+  delegator_shares: "35125124931940427702441.606655020773291202"
+  description:
+    details: YOU
+    identity: 7A5898F2CC077781
+    moniker: BartestneT
+    security_contact: ""
+    website: https://github.com/bartosian
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1xc4x6p3mrdlpkmha82d8egmp9cl7qda2c7gkpz
+  status: BOND_STATUS_BONDED
+  tokens: "35121614712661993931889"
+  unbonding_height: "4332251"
+  unbonding_time: "2022-10-01T17:36:46.615354638Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-10-02T16:48:03.949106942Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: jSBxepnhhG9woK+dkANoL/a/sFD8VvXxHxnmRUoTfs0=
+  delegator_shares: "69950989999999999999999.000000000000000000"
+  description:
+    details: ""
+    identity: 4CBB3BA1C53E5E3D
+    moniker: furkan
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1gzuun40ssnf56qnwn4wazpgp4n0k6c2jfsdmr4
+  status: BOND_STATUS_BONDED
+  tokens: "69950989999999999999999"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.010000000000000000"
+    update_time: "2022-04-21T20:41:02.680338962Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: IgZzpmo3MPKXiDJFd0l2PUhG4HyC2oHeTl9fld21sJI=
+  delegator_shares: "11501050105010501050.105010501050105011"
+  description:
+    details: ""
+    identity: ""
+    moniker: testingvaloper
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1g88vjxtwksq7dyfvjuv8mgdfvfhdf6qd2xfzyn
+  status: BOND_STATUS_UNBONDED
+  tokens: "11499900000000000001"
+  unbonding_height: "2274648"
+  unbonding_time: "2022-05-08T10:49:09.817888727Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.050000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-08-28T17:55:11.642014744Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: aK2K0A4Hr/UqZpeS4GNrQJjsWprL/0ekp8HYMWOc9GU=
+  delegator_shares: "653561820253494924214540.000000000000000000"
+  description:
+    details: We have chosen to put our money and our faith in a mathematical framework
+      that is free of politics and human error...
+    identity: 702CF28F9CBE480F
+    moniker: Mercury | 3ventures.io | Autocompound via reStake
+    security_contact: team@3ventures.io
+    website: https://3ventures.io
+  jailed: false
+  min_self_delegation: "1"
+  operator_address: genesisvaloper1g2d2qy9gpfrl7j38w7anfg4m59zdr80jjusw57
+  status: BOND_STATUS_BONDED
+  tokens: "653561820253494924214540"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.100000000000000000"
+      max_rate: "0.300000000000000000"
+      rate: "0.040000000000000000"
+    update_time: "2022-08-12T20:07:29.384199574Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: /dhB1bqxnBmEKcLpgQ78sy7hW6WUxyCl1aXoGD5kBVc=
+  delegator_shares: "68755319484578803515047.000000000000000000"
+  description:
+    details: Decentralization will change the world!
+    identity: FC37DE18FDBDE306
+    moniker: "\U0001F1FE\U0001F1F9\U0001F1F9\U0001F1F7\U0001F1EE\U0001F1FA\U0001F1F2
+      - nataladazlata"
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1gmhu57ydqw37s7w6ekuk254t3w78ug9nf3jzhq
+  status: BOND_STATUS_BONDED
+  tokens: "68755319484578803515047"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.050000000000000000"
+      max_rate: "0.500000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-10-01T06:05:50.916616760Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: J5ggETRSx5M5+nrUgOuhRx+VYOGyyckkNnh+z91XMn8=
+  delegator_shares: "6027851685168516851685.164801432382029037"
+  description:
+    details: D-stake is an experienced PoS validator. You can safely stake your funds
+    identity: 21A67C27F1A9CD69
+    moniker: D-stake
+    security_contact: info@d-stake.xyz
+    website: https://d-stake.xyz
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1f5r7dg3aad4et0vmjrktvumgkl5d8dm79787w9
+  status: BOND_STATUS_BONDED
+  tokens: "6027248900000000000002"
+  unbonding_height: "4441921"
+  unbonding_time: "2022-10-11T11:33:23.662862042Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-02-17T15:07:03.717111854Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: 0TlHXEQ/FDmF9l/kLaOzfsOp2M0Ff41thpkQViBL3cU=
+  delegator_shares: "199173736485053556354404.542398927108920441"
+  description:
+    details: ""
+    identity: CD2574B68358E7B3
+    moniker: NakoTurk
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1fmmh47668k05rj2muv3868xfsmxtvxp4cuuj8r
+  status: BOND_STATUS_BONDED
+  tokens: "195112733217407119724271"
+  unbonding_height: "4273029"
+  unbonding_time: "2022-09-27T17:39:17.886218142Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-08-31T19:58:19.404143069Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: OHFyV+bUgiL+kL9+2QpbZroUefVsTwUSbZOXnDm9ym0=
+  delegator_shares: "339437658001600265409859.886757956685324061"
+  description:
+    details: Sit down, stake & have some tea!
+    identity: 7D24A87FB436A5D8
+    moniker: Nitrogen
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper12k3fayp27dg2plzxfj2dxdvpvw5y97v5xrdeku
+  status: BOND_STATUS_UNBONDED
+  tokens: "339335837001555184423858"
+  unbonding_height: "4825985"
+  unbonding_time: "2022-11-27T08:01:12.778762645Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-08-23T12:10:27.838254245Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: 2sycas4kJka/3nww+IV/9vaJq3sum/MAMUN3waT3lhk=
+  delegator_shares: "17011701085190129369.444039139946881389"
+  description:
+    details: independent validator. perfect by birth. @how_to_node creator.
+    identity: 572FAB59B1EF905D
+    moniker: cyberomanov
+    security_contact: ""
+    website: cyberomanov.me
+  jailed: true
+  min_self_delegation: "1"
+  operator_address: genesisvaloper12hckdk0k5wvpucxa5q77vhn7hhtnsshz7mlntq
+  status: BOND_STATUS_UNBONDING
+  tokens: "17008300000000000440"
+  unbonding_height: "4865337"
+  unbonding_time: "2022-12-02T03:13:36.971254615Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-10-08T16:47:29.381601257Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: U6Ea8DWKliIJeIlk5M697xGgrHHWESo5iDHuDd9ew2M=
+  delegator_shares: "491965152626033704031865.343604693894107695"
+  description:
+    details: You can always DM me on Telegram! @ElonFKGNmusk
+    identity: 2B9C381CAB7C440B
+    moniker: Elon_Nodes
+    security_contact: elon.nodes@gmail.com
+    website: https://twitter.com/CosmosElon
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1tzqmp8ed3e6rgqrfscekg87pe5hd90n0ax4ghd
+  status: BOND_STATUS_BONDED
+  tokens: "491915956226128115195825"
+  unbonding_height: "3710413"
+  unbonding_time: "2022-08-20T09:05:06.475594092Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2021-11-30T13:44:52.599706465Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: L+FQOUUx38qYMByiCZXaRkvKfCbqt3eek/65ots/nE8=
+  delegator_shares: "51545794646804747814849.762280431400140634"
+  description:
+    details: ""
+    identity: ""
+    moniker: adaovalidator
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1"
+  operator_address: genesisvaloper1tf30djggwdrx22nwdc03esqtfzmswk8sqml4cq
+  status: BOND_STATUS_UNBONDED
+  tokens: "50009831599966703196554"
+  unbonding_height: "4704432"
+  unbonding_time: "2022-11-12T11:28:32.435503772Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.050000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-09-26T20:35:30.348845244Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: ck2bR44hWBH/6TpSiki+aZ4WPhKDK1iL/2z7VPH+4uc=
+  delegator_shares: "34901511764057753611309.000000000000000000"
+  description:
+    details: Professional runs nodes, use only high performance servers with 24/7
+      automatic monitoring
+    identity: CC1B965A390C1C7A
+    moniker: nodes.expert
+    security_contact: ""
+    website: https://nodes.expert
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1t04gj7prg8ucz3ljmqgmqcleru9w04al7w5snf
+  status: BOND_STATUS_BONDED
+  tokens: "34901511764057753611309"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.100000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-09-20T10:45:30.635395773Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: aHRLm1zTYIn8sAMVm5nV9QwZV1dwNzaDMS7P3yKJXR8=
+  delegator_shares: "15831000007560890291265.000000000000000000"
+  description:
+    details: Gaming
+    identity: ""
+    moniker: A-gaming
+    security_contact: cryptosolution1441@gmail.com
+    website: ""
+  jailed: false
+  min_self_delegation: "1"
+  operator_address: genesisvaloper1t39d79qk9qwqnt5wu89msrlhu3xwsmuhmwkdpy
+  status: BOND_STATUS_BONDED
+  tokens: "15831000007560890291265"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.100000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-08-18T12:52:47.009158323Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: kRtV8ewlGohvnnuOOnv62T453uzeFe5bxnAkXeR3+Pg=
+  delegator_shares: "91258749201874094335359.000000000000000000"
+  description:
+    details: Reliable Proof-of-Stake Validator
+    identity: D1A8193AF3905AAC
+    moniker: StingRay
+    security_contact: ""
+    website: https://github.com/MikhailRadusha
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1tevzwt4ztgz7q6gp5t4wna3e8xe5fcxxh64543
+  status: BOND_STATUS_BONDED
+  tokens: "91258749201874094335359"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-05-14T15:40:41.920084294Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: eGxwEH+2qS2nGWEXyWuAXXeHCoxzqQW9hLjQKpURyt8=
+  delegator_shares: "2068123133053395826.000000000000000000"
+  description:
+    details: ""
+    identity: ""
+    moniker: fenerbahce
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1t6y45x5dw4sxjmvuln2fzp40jcz88nkktya5cq
+  status: BOND_STATUS_UNBONDED
+  tokens: "2048123133053395826"
+  unbonding_height: "1664498"
+  unbonding_time: "2022-03-26T19:25:21.049742647Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.050000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-08-17T01:52:15.153827640Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: KuqkZUftROHRo+AZ2hrOjIqAX5g9ttb0rklcZHNpIa8=
+  delegator_shares: "450317423549052319677274.069612031513090839"
+  description:
+    details: ""
+    identity: ""
+    moniker: OG Oganesson
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1vc0e9lze2qpqc745zz6ltwdr7s5lfxh9qpp0vw
+  status: BOND_STATUS_BONDED
+  tokens: "450227364639175482315199"
+  unbonding_height: "4453317"
+  unbonding_time: "2022-10-12T21:05:40.927682991Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.100000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.030000000000000000"
+    update_time: "2022-11-08T20:09:00.712561743Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: R6e9Sp4iOFXWbC3qd4wRcyfNkZUkrpOiY+xp17Heovk=
+  delegator_shares: "30212860488625862317085.000000000000000000"
+  description:
+    details: True Crypto Enthusiast
+    identity: E1E5CD63948A7272
+    moniker: "\U0001D54D\U0001D552\U0001D558\U0001D55A\U0001D557"
+    security_contact: ""
+    website: https://Vagif.pro
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1dk4803px8e6ww3w2n3xcu2g72l5fj884294sz5
+  status: BOND_STATUS_BONDED
+  tokens: "30212860488625862317085"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-01-15T16:27:15.812860694Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: fs5pUV4SpTucf8mIX9bzer/e5vbMZHgyqOrMGZVhsfg=
+  delegator_shares: "1000000000000000000.000000000000000000"
+  description:
+    details: ""
+    identity: ""
+    moniker: pinode
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1de58e3hzv0f2qrltsclrfq90298mhudad6w7cz
+  status: BOND_STATUS_UNBONDED
+  tokens: "990000000000000000"
+  unbonding_height: "690000"
+  unbonding_time: "2022-01-19T04:29:32.089593649Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.100000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-09-25T11:47:16.152387676Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: S9wdg5oJuiELKVwn2Q8lUxr5wlY1FF5etT+DXCHoVik=
+  delegator_shares: "899707619000000000.000000000000000000"
+  description:
+    details: ""
+    identity: ""
+    moniker: amonxx
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1"
+  operator_address: genesisvaloper1d6py6f4jl209c3lza4g6zqacg0emmzgxaaq0aa
+  status: BOND_STATUS_UNBONDED
+  tokens: "899707619000000000"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.100000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-08-15T10:20:40.819242226Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: 6OjyuFZmKCIYYz0zJrrLFjjeg/SyuFwLiA1osq2hnVI=
+  delegator_shares: "52083409869999999018031.000000000000000000"
+  description:
+    details: Independent Proof-Of-Stake validator with reliable hardware. COSMOS ecosystem
+      contributor.
+    identity: 5A41C154D15CB33A
+    moniker: Selenium | JahaND
+    security_contact: ""
+    website: https://github.com/ddim77
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1dmgfmq8f3ls4meguneag394t78ervhp7na9uwp
+  status: BOND_STATUS_BONDED
+  tokens: "52083409869999999018031"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-08-23T12:41:46.873496274Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: mFk+kF47UKv7IFs42ewZVPvTVcCQxa/xvb1n1nvpO/U=
+  delegator_shares: "58681479817499273300157.477468553674413078"
+  description:
+    details: Tell me what node you set, and I will tell you who you are
+    identity: B38EBF2F38B998F4
+    moniker: '[NODERS]TEAM'
+    security_contact: dudava45@gmailc.com
+    website: https://noders-stake.com/
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1wqfvpdzudz3vqemyfwwnuhw6q6yjc62hvjuvgy
+  status: BOND_STATUS_BONDED
+  tokens: "58658011000000047737857"
+  unbonding_height: "4602748"
+  unbonding_time: "2022-10-31T02:22:00.564468726Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-06-29T09:07:50.997372413Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: VYEQ6H0e2vx/wCtG8RrTy3JVA3+kg5ihSiJ8Oj8M8fo=
+  delegator_shares: "24695336930029324772725.947627582916680562"
+  description:
+    details: ""
+    identity: 935D7ABCC9B25489
+    moniker: gloreix
+    security_contact: ""
+    website: https://nodepro.xyz
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1wygj6nlhawemv9uk8szlq53gncrnpqhaszh0er
+  status: BOND_STATUS_BONDED
+  tokens: "24690398390146862795859"
+  unbonding_height: "3088658"
+  unbonding_time: "2022-07-08T18:44:50.772703039Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-06-03T14:52:18.093501249Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: e4U/EW8WIvdByLNungYaUsxp/u+36NtboRRwj2AUjqE=
+  delegator_shares: "133208304165874496714794.000000000000000000"
+  description:
+    details: ""
+    identity: 3DC0B21FC9F4D2F2
+    moniker: CryptmasGhost
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1wwxpj2wxnd63h597pwtzmxavyzmrr2kxt7aasj
+  status: BOND_STATUS_BONDED
+  tokens: "133208304165874496714794"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.100000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-05-14T15:28:03.021188225Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: xVmVFyd9Qw7IaPU04VyA6K6fvRhUGZD6yVB9Dwrkm0s=
+  delegator_shares: "214913728021768991525127.235980924228935394"
+  description:
+    details: ""
+    identity: 2C079160AC9C286B
+    moniker: MCB
+    security_contact: ""
+    website: https://mcbnode.com/
+  jailed: false
+  min_self_delegation: "1"
+  operator_address: genesisvaloper1w7p0fqtmxa6r6uuwntuy90m5h4g0yq27hcndjm
+  status: BOND_STATUS_BONDED
+  tokens: "214870747521219700579836"
+  unbonding_height: "4425226"
+  unbonding_time: "2022-10-09T10:38:05.800391510Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.100000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-08-24T18:51:35.551275097Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: KqT02Nxei4BTj4wqXhTYRd1dXUucC/Q6IRzPleFBklw=
+  delegator_shares: "50777214549768423100722.000000000000000000"
+  description:
+    details: https://www.youtube.com/CoinStamp
+    identity: DC593D952394A19A
+    moniker: Coinstamp
+    security_contact: ""
+    website: https://twitter.com/coinstamp_
+  jailed: false
+  min_self_delegation: "1"
+  operator_address: genesisvaloper10rx8lxl33tuz08jf94z7ullf6lxx7mg8rdl3aj
+  status: BOND_STATUS_BONDED
+  tokens: "50777214549768423100722"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.100000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-08-09T05:41:02.361214491Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: b0FUJ15u69mfPs7mMDwZwhvuxYycQ3iwBUNJ+rV4hiI=
+  delegator_shares: "23050310763552601363754.000000000000000000"
+  description:
+    details: Dedicated contributer, Infrastructure validator inUA
+    identity: 52D7E9C59B92F133
+    moniker: web34ever
+    security_contact: web34ever@gmail.com
+    website: https://web34ever.network/
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper10x5stkzceeefj87ku75uvjvxyr6zu9rd5a8mp5
+  status: BOND_STATUS_BONDED
+  tokens: "23050310763552601363754"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-08-25T10:19:49.421231953Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: QG9ndKUhXR9us5dkcS/1+CUp3PPFo28saLe2yCWZPhk=
+  delegator_shares: "64408921723756518524774.478197010973255926"
+  description:
+    details: Unearth the energy of expansion and a new start.
+    identity: 0A655CDE4E4DC63D
+    moniker: Chromium | platform.19
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper10gfc3d426easgc62xtmrhzndvqz74wrvtcadcp
+  status: BOND_STATUS_BONDED
+  tokens: "64376723904435315705346"
+  unbonding_height: "4715140"
+  unbonding_time: "2022-11-13T18:59:50.598886829Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-06-03T11:02:38.946599277Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: a2cn4PxwFMApdes9/8W+UsrA26uvmnhibwTeNnKbftA=
+  delegator_shares: "70951261337100982820847.750485235772412806"
+  description:
+    details: Building web3 one block at a time
+    identity: ""
+    moniker: golden_signals
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper10fyrtcw4eqnuekahslct53lhkune03dm9mw4qs
+  status: BOND_STATUS_UNBONDED
+  tokens: "70944166240250000393217"
+  unbonding_height: "4112906"
+  unbonding_time: "2022-09-16T19:40:17.915542710Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.050000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-08-14T07:50:02.888233878Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: uuFSqNq86CHcUIlljg7u6QjlrCYyLgyGHBJGwsMtv3Y=
+  delegator_shares: "471976607325460970432408.872019536669361309"
+  description:
+    details: brrrrrrrr
+    identity: 5F406D7064437F89
+    moniker: "\U0001F171️oron | coldy \U0001F9CA"
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1"
+  operator_address: genesisvaloper1036lpa7k6ym29wx5cmrwnv7c56tef803ury76q
+  status: BOND_STATUS_BONDED
+  tokens: "471929409683928500607924"
+  unbonding_height: "3901263"
+  unbonding_time: "2022-09-02T10:31:57.960868926Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-10-01T15:15:30.841132762Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: heQWd9bhdX60vk+YnpkEZb+g97lhm8Nnp0ul6gNrjRg=
+  delegator_shares: "20935900000000120000000.000000000000000000"
+  description:
+    details: ""
+    identity: DBB4B1D1A8665E4F
+    moniker: DiBugNodes
+    security_contact: TG @DiBugNodes
+    website: https://DiBugNodes.com/
+  jailed: false
+  min_self_delegation: "1"
+  operator_address: genesisvaloper10l0ckwpvdgm2saedrgn9arjgp37lp2wpq62g84
+  status: BOND_STATUS_BONDED
+  tokens: "20933806500000120000000"
+  unbonding_height: "4799277"
+  unbonding_time: "2022-11-24T01:45:27.747112774Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2021-12-15T14:52:46.841001799Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: lcaOUPMkkbku1m8f34uUaAPU3QkS8pCuNON05iWesRw=
+  delegator_shares: "58092433257540609286922.922130185369638427"
+  description:
+    details: ""
+    identity: ""
+    moniker: Nickel Quinlan
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1srf2cr67xf5tchqa9za65plrz6dmq2me7ztzzc
+  status: BOND_STATUS_BONDED
+  tokens: "58086624099629941942655"
+  unbonding_height: "4591062"
+  unbonding_time: "2022-10-29T15:56:44.447830859Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-01-08T03:47:04.137730473Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: xIuIj5VuMCG8n05pAlOxTG9Ki31pKmos7JWXt04eY1Q=
+  delegator_shares: "1020303929359733627.188152174550964900"
+  description:
+    details: ""
+    identity: ""
+    moniker: pan
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1sh49mjlp9ws4nppsskkmvt6u6vzpm6spn489xe
+  status: BOND_STATUS_UNBONDED
+  tokens: "999999999999475713"
+  unbonding_height: "881101"
+  unbonding_time: "2022-02-01T08:36:21.488861852Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2021-12-11T18:05:44.593148553Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: jYRcwLGn0zwQfwr0Mw51hb1EqSn4+Zc3VuoIWKyxEJE=
+  delegator_shares: "73020202020202020202.020202020202020196"
+  description:
+    details: ""
+    identity: FA260EE7A0113432
+    moniker: jabbey
+    security_contact: ""
+    website: https://jabbey.io
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper13rd59t73eyv8v8248v7xemrm4q7x77du48d6uq
+  status: BOND_STATUS_UNBONDED
+  tokens: "72290000000000000000"
+  unbonding_height: "565359"
+  unbonding_time: "2022-01-10T14:23:11.442059745Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.040000000000000000"
+    update_time: "2022-11-29T10:38:44.433181337Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: FRrWC5KGS5esx9T7S7adECUlNBtywDKxIGQO8RUKBrQ=
+  delegator_shares: "92598943360631745703103.709139285271830683"
+  description:
+    details: ""
+    identity: 12151B2C705E9865
+    moniker: romanv1812
+    security_contact: ""
+    website: https://github.com/romanv1812
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1jpeugc6g2shluse8c0ek87d4rv3qtrn4354nmj
+  status: BOND_STATUS_BONDED
+  tokens: "92589744598597455179223"
+  unbonding_height: "3740087"
+  unbonding_time: "2022-08-22T10:49:06.874249063Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-08-11T13:59:05.565804798Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: OgSNy2Aqu9EgmG3DrzMpYCPfvwfQh9VAAf4ezrvTNO8=
+  delegator_shares: "63031175049758172901521.000000000000000000"
+  description:
+    details: Cosmos one Love
+    identity: ABE84D0AB09AB589
+    moniker: AlxVoy
+    security_contact: alxvoy@voynitskiy.com
+    website: https://voynitskiy.com
+  jailed: false
+  min_self_delegation: "1"
+  operator_address: genesisvaloper1jxyxqzs0eg53gf2vjs5ekx7ewgduf4gqcpay30
+  status: BOND_STATUS_BONDED
+  tokens: "63031175049758172901521"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2021-12-01T20:49:15.582025607Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: dNevm0idPsUtPv4vt/Pa4HnWXdp2h2E8Ux8QAzuia+g=
+  delegator_shares: "205722933126085676402695.277141064274697852"
+  description:
+    details: ""
+    identity: 2FC33112242639AE
+    moniker: Phosphorus
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1jadgmdwvwdwgqh5kjdlgufaay7769f5c6jtgf5
+  status: BOND_STATUS_UNBONDING
+  tokens: "201226182491825240214408"
+  unbonding_height: "4871617"
+  unbonding_time: "2022-12-02T21:44:55.342640694Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.070000000000000000"
+    update_time: "2022-07-22T13:20:44.306460789Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: Q2EQPxRA3olvWj+ieCTLOc7YaKRJSVHVpySX/8EkQiM=
+  delegator_shares: "19973860586058604746361.636163616361636163"
+  description:
+    details: ""
+    identity: ""
+    moniker: Nektar
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1jankpej0wr5lqnmfkaa360z3ndeguknx7egrsj
+  status: BOND_STATUS_UNBONDED
+  tokens: "19967869199999998885887"
+  unbonding_height: "4513782"
+  unbonding_time: "2022-10-20T04:47:28.557867295Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-08-28T13:03:31.587537340Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: cpi3htlwvGVZncjGFPInBUINi0JHvBE04cfGY3Is63k=
+  delegator_shares: "248643516544318890588011.000000000000000000"
+  description:
+    details: ""
+    identity: ""
+    moniker: ZEUSvF
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1jlhl7tt5n98z35aknv2s80vu9y4jmayqeah72w
+  status: BOND_STATUS_BONDED
+  tokens: "248643516544318890588011"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.080000000000000000"
+      rate: "0.070000000000000000"
+    update_time: "2022-01-04T03:03:05.085443762Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: Jy+cJqPa/6uTWPddHDA6xyloMPt39F9JGKUSrlgtbIU=
+  delegator_shares: "600360035647890726.476034676250289931"
+  description:
+    details: ""
+    identity: ""
+    moniker: NFTwitch
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1nqqxn2txk7kwcx0dhxfn57unnz2cv9ael3tpyc
+  status: BOND_STATUS_UNBONDED
+  tokens: "600300000000000002"
+  unbonding_height: "2005001"
+  unbonding_time: "2022-04-20T02:24:35.492393575Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-06-02T22:39:02.123960973Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: E5bV3F9lk9I4Goh/K2fHtqfCa+tT0a5EZrX6jrVoNWc=
+  delegator_shares: "362838236684000005111803.000000000000000000"
+  description:
+    details: ""
+    identity: 3CEC1D61D717E330
+    moniker: BlueHole
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1nvfs6cvlelpp6rgguh8r3n6z5ha7yvxtn7dudu
+  status: BOND_STATUS_BONDED
+  tokens: "362838236684000005111803"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.080000000000000000"
+    update_time: "2022-11-15T06:43:21.484417699Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: N440sp1OeV60AFmgLVrnOUHU45mS6P3zS4jC6vUVWV4=
+  delegator_shares: "184993207035922260590494.496777955223543670"
+  description:
+    details: From Genesis to Beyond!
+    identity: A5B74C112075C702
+    moniker: AlphaL1
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1ne0f3cq3xcw93zxf9ckdkajjuq4at3ld2cle32
+  status: BOND_STATUS_BONDED
+  tokens: "177650649073795858208845"
+  unbonding_height: "3126658"
+  unbonding_time: "2022-07-11T09:54:24.151030232Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.100000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-10-15T18:51:07.834310383Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: XRv1dl6dAFP3QLi5wdVs9vcPWyF0zaz0SOHwbQ8QQ8c=
+  delegator_shares: "16541239288817834309400.123135055693922128"
+  description:
+    details: You
+    identity: F9E8F95B6CF1152E
+    moniker: maxfoton
+    security_contact: djmaxfoton@gmail.com
+    website: https://twitter.com/MaxFoton
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1nas9xydhufh8vdqyy0h6l0j79m785zmu8sfcg6
+  status: BOND_STATUS_BONDED
+  tokens: "16539585164888952528672"
+  unbonding_height: "4160316"
+  unbonding_time: "2022-09-20T01:10:33.333107563Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.100000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-01-01T04:41:33.347735693Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: 88GoVooIWEAr4gW7zLjjmL2heHSnW0mUoc146TpXkBg=
+  delegator_shares: "177642170824712497272536.000000000000000000"
+  description:
+    details: ""
+    identity: ""
+    moniker: Calcium by Faust
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper15ua6k8dtusen4zzdqvuna2sscw6zz4y5n9awff
+  status: BOND_STATUS_BONDED
+  tokens: "177642170824712497272536"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-07-15T13:42:53.948117702Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: 2rs+6W3upQwpVa/UROxlBcuHuftQuQ2BhH1+4EolPEM=
+  delegator_shares: "53086229761945277173.155772852217461877"
+  description:
+    details: ""
+    identity: ""
+    moniker: pleaseredelegate
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper15lze4gd00ra7uhgdrjv32nql2yjw5jjn6mvpeg
+  status: BOND_STATUS_UNBONDED
+  tokens: "50431943340146242123"
+  unbonding_height: "4286820"
+  unbonding_time: "2022-09-28T15:54:03.072063484Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.100000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-08-23T10:30:23.002484104Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: EQq3J7E7rDNr10Aqeia6gP9H8jGay48Z/I1yMIy/zs4=
+  delegator_shares: "29189198025589159710469.231680584069681246"
+  description:
+    details: "\U0001F680 Independent PoS Validator | \U0001F911 Uptime and rewards
+      generation for you is my top priority | \U0001F4AC 24/7 customer support — https://t.me/cryptobtcbuyer"
+    identity: E1A5712F01E07357
+    moniker: cryptobtcbuyer
+    security_contact: cryptobtcbuyer@gmail.com
+    website: https://github.com/cryptobtcbuyer
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper14ffhw6jplvhx0kn449hg55m5dd58f245nvsqkf
+  status: BOND_STATUS_BONDED
+  tokens: "29186301117490924192222"
+  unbonding_height: "3739809"
+  unbonding_time: "2022-08-22T10:21:21.360890654Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.100000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-01-06T03:24:23.552812686Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: REdxJ8r9I84NsyrtY76SCxN6Vpj+Le5wOyopLl4wxdc=
+  delegator_shares: "20406080961153275.959972402270937410"
+  description:
+    details: ""
+    identity: ""
+    moniker: magictree
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper143g5vqx5vzj69z3u4fz3ctw8etjj0ffvlctvsf
+  status: BOND_STATUS_UNBONDED
+  tokens: "20000000000786434"
+  unbonding_height: "937132"
+  unbonding_time: "2022-02-05T05:02:01.976365963Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-10-01T11:35:01.860304085Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: B4Y6ld4lDRTMYqhdy/xxbdpoy7iBOER+xpVnsR8lugY=
+  delegator_shares: "16010000000000000000000.000000000000000000"
+  description:
+    details: ""
+    identity: ""
+    moniker: cold
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1kdwlvcpxfaqhjh0ynjpjwmqs3f96jxk7rhgyzh
+  status: BOND_STATUS_BONDED
+  tokens: "16010000000000000000000"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.100000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-08-14T22:03:03.014216132Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: OmmcYpp7wtZeZltXou3GTWegmmllmI6/LzLGZM3NNnw=
+  delegator_shares: "25047550104858772647896.854453136962430564"
+  description:
+    details: Low
+    identity: 027E983E08CD5964
+    moniker: Ruthenium-SECARD
+    security_contact: ""
+    website: http://secard.info
+  jailed: false
+  min_self_delegation: "1"
+  operator_address: genesisvaloper1k0qvnqlugjf543vf6uf3cz98y4zwhwfws0x38q
+  status: BOND_STATUS_BONDED
+  tokens: "25040036734571987543395"
+  unbonding_height: "4618978"
+  unbonding_time: "2022-11-02T01:58:10.410736915Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-07-15T13:34:14.037381273Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: qvkJvr5r1FyZNROcF9Cgzjg+6CZ3OVXt+7gIjerIdBY=
+  delegator_shares: "57337239436999999999999.000000000000000000"
+  description:
+    details: ""
+    identity: 091C067CA7BDFD1B
+    moniker: UniqLabs
+    security_contact: ""
+    website: https://uniqlabs.org
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1k383ngxtzcvzsv3wamgn74w5c0p5jwxjqanfax
+  status: BOND_STATUS_BONDED
+  tokens: "57337239436999999999999"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.060000000000000000"
+    update_time: "2022-11-07T13:55:32.027131739Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: /3d/ybUygq3AjNztOBICSH24Q7aAFS2zC2tdT183K+w=
+  delegator_shares: "358013907386181178887060.535908962368977274"
+  description:
+    details: Enlightenment is Evolution
+    identity: B5B098EE12C154C4
+    moniker: Silicon-NLights
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1knfdnjttp4uj6zmhuu286ujvc8uqrtjcafsthf
+  status: BOND_STATUS_BONDED
+  tokens: "357978106025650030902855"
+  unbonding_height: "3115143"
+  unbonding_time: "2022-07-10T14:46:10.992025392Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.030000000000000000"
+    update_time: "2022-05-20T09:42:02.662063586Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: glYakXk/q2eMeIPGpNuIAyABDjBs3UtDdbTIeacthr4=
+  delegator_shares: "612966637507204258653.409572700314796604"
+  description:
+    details: ""
+    identity: ""
+    moniker: Stoli
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1hyknkrse3mz2djxu6ng2lhf0cpajw8pvdwaw9r
+  status: BOND_STATUS_UNBONDED
+  tokens: "612844050393484244213"
+  unbonding_height: "3016224"
+  unbonding_time: "2022-07-03T19:31:50.782617982Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-01-13T04:33:47.774499914Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: cy+zsnQ4MI3Z8fnTuQeQilqK1hrrXthYCZMkIvNpytY=
+  delegator_shares: "260404634764227007385464.000000000000000000"
+  description:
+    details: ""
+    identity: ""
+    moniker: Sulfur|ancient
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1hvh3cl9n58h04sj0efevccn3vt25z07h6hcksa
+  status: BOND_STATUS_BONDED
+  tokens: "260404634764227007385464"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2021-11-30T14:09:07.646024411Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: uS1IhfogRhDOh2NBNidomjt+DVNwAW82P+aWFjtCDo0=
+  delegator_shares: "50516393000541912492400.809045813080394964"
+  description:
+    details: ""
+    identity: ""
+    moniker: bdaovalidator
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1hks9cv4ddms48jx957xl5jxhhgjkjnl2vstetx
+  status: BOND_STATUS_BONDED
+  tokens: "50011229070536493367481"
+  unbonding_height: "176613"
+  unbonding_time: "2021-12-15T05:47:08.879171028Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.050000000000000000"
+      max_rate: "0.150000000000000000"
+      rate: "0.070000000000000000"
+    update_time: "2022-08-26T18:11:45.323557699Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: dhRX8ohCTJAKeIuC/B66n+4zzG1q0YI3fAcF4O9KDMU=
+  delegator_shares: "913647642285513044934.227769446232738878"
+  description:
+    details: dump for everyone
+    identity: ""
+    moniker: "bear\U0001F43Bmeat"
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1"
+  operator_address: genesisvaloper1h6q4vwhqw08fejale48truuntu22qqqlduc4r0
+  status: BOND_STATUS_UNBONDED
+  tokens: "913556278872734301020"
+  unbonding_height: "4645826"
+  unbonding_time: "2022-11-05T08:37:10.015578323Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-06-28T23:07:21.750485006Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: Bz7TeobiuuoyO99/+YDKOMPMUEsNt4ox1AQYwf7tbfo=
+  delegator_shares: "359080869505416387384316.000000000000000000"
+  description:
+    details: ""
+    identity: ""
+    moniker: Stolichniy
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1h6ezpu94krzg7344mhf78vr3hsyz07xk6luedw
+  status: BOND_STATUS_BONDED
+  tokens: "359080869505416387384316"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "1.000000000000000000"
+      max_rate: "1.000000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-09-26T21:38:47.125695014Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: 2qaFfSK005NZYiOTBN9Xph/KFq27lwDM1bTKW3fkbdM=
+  delegator_shares: "10033720000000000000000.000000000000000000"
+  description:
+    details: ""
+    identity: ""
+    moniker: vVv
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1huxjuyruu8kd93pknvzzyapqrkm3n240xzcl0e
+  status: BOND_STATUS_BONDED
+  tokens: "10033720000000000000000"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.060000000000000000"
+    update_time: "2022-08-27T23:11:14.475755084Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: u0uGvbY3uf2YPm4KWySJNPQY6c/JHw1M5K0HdIJ2GNg=
+  delegator_shares: "55185093538990667053298.669574385027097344"
+  description:
+    details: How would you pave own Adventure Path?
+    identity: F21663356D72F21F
+    moniker: Copper | MONOL1TH
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1hle8ms9fx2nwpk073qa2h5dly7aetf5lunj8e3
+  status: BOND_STATUS_BONDED
+  tokens: "55168539800002175780861"
+  unbonding_height: "4715140"
+  unbonding_time: "2022-11-13T18:59:50.598886829Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.100000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-08-28T05:57:53.909221384Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: XXckqzHHmpzU4udw7cWC/jVsbKfD8ODqlV6/VxE2tno=
+  delegator_shares: "15554480533102509848490.330338998852300430"
+  description:
+    details: ""
+    identity: F0AB93C0E4FA666A
+    moniker: Aurie
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1cru83slnu2scwn32dkkgp4pfu4famvx4zxevh2
+  status: BOND_STATUS_BONDED
+  tokens: "15549886364431523902255"
+  unbonding_height: "4446685"
+  unbonding_time: "2022-10-12T01:27:11.561981283Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-03-27T17:26:18.177287531Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: icR5l4DFbZlvbAm4/3PYXCF4djuSacsBk1mnju579xc=
+  delegator_shares: "9000000000000000000.000000000000000000"
+  description:
+    details: ""
+    identity: ""
+    moniker: noobdate
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1efrxvgnw36eyray9tsmswwkfvpesx4dadszl2d
+  status: BOND_STATUS_UNBONDED
+  tokens: "8910000000000000000"
+  unbonding_height: "1722214"
+  unbonding_time: "2022-03-30T17:36:09.368778355Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-09-02T18:53:09.129623807Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: RDuMB16dQOTQXygHT5tdTS7PqMo+zF3GLuPhJ3wd2tU=
+  delegator_shares: "151504677358526166379318.831026175790384536"
+  description:
+    details: ""
+    identity: 22D481CAC41C0DFA
+    moniker: Arrakis
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper16r6sll9hyk3jxsgxdg7sga3gmpm4fe0c7j0jkc
+  status: BOND_STATUS_UNBONDED
+  tokens: "151489526961634324220020"
+  unbonding_height: "4689456"
+  unbonding_time: "2022-11-10T15:34:33.688167728Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2021-12-17T01:37:34.722928914Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: kZ6IDjAck7zaHZULSxO8GEMyntYGsrEmWpTTQwMpTyw=
+  delegator_shares: "243040798670922350566331.000000000000000000"
+  description:
+    details: ""
+    identity: ""
+    moniker: Aluminium
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper16yykp72kv3k73djdxkvfsny3ct2670tm607t42
+  status: BOND_STATUS_BONDED
+  tokens: "243040798670922350566331"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.070000000000000000"
+    update_time: "2022-11-25T14:52:28.099023578Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: 59zxeRETLjBs774quwwcHa0roPNDtW83u90GH3v4yLw=
+  delegator_shares: "700238718157715070661879.099483210613190635"
+  description:
+    details: Stake on Steak 'n Shrimp!
+    identity: 8B10337E98A3A976
+    moniker: steaknshrimp
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper16x3fvvqjhm9u0284q4rygwdtv7xy3ym0kkml28
+  status: BOND_STATUS_BONDED
+  tokens: "686304278679098609496965"
+  unbonding_height: "213003"
+  unbonding_time: "2021-12-17T16:54:42.257278459Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.070000000000000000"
+    update_time: "2021-12-15T18:25:39.598092673Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: INX/7NNCPyFafRk/XdJwQQ4kH/VLYtOHmO0RLGs5uy0=
+  delegator_shares: "1200120012001200120.012001200120012002"
+  description:
+    details: ""
+    identity: ""
+    moniker: insilico
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper16xlt8s65mzlsv2xehx5x3jx7nleanj9f3tqgg7
+  status: BOND_STATUS_UNBONDED
+  tokens: "1200000000000000001"
+  unbonding_height: "2005001"
+  unbonding_time: "2022-04-20T02:24:35.492393575Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2021-12-02T05:29:32.430836200Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: mZ4yLJQcUAJLhXclzmpkvqNSFyTGHxbjAzDzv9Qm1wk=
+  delegator_shares: "11111111111111111111.111111111111111112"
+  description:
+    details: ""
+    identity: ""
+    moniker: Pantheon
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper167sjwg0cgygfgqax0f3vk96qxgxcnx0cac89p0
+  status: BOND_STATUS_UNBONDED
+  tokens: "10790000000000000001"
+  unbonding_height: "777117"
+  unbonding_time: "2022-01-25T04:15:30.937034129Z"
+- commission:
+    commission_rates:
+      max_change_rate: "1.000000000000000000"
+      max_rate: "1.000000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-09-30T16:32:16.967216626Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: StmSMOJiDU92w+kxD78Xi4y/SmzZRYv9Vszai+1tUmM=
+  delegator_shares: "23452271730151634690591.078768096517133403"
+  description:
+    details: Kalia Network validator node. Delegate your tokens and Start Earning
+      Staking Rewards
+    identity: 3D6E2861B47F2F9F
+    moniker: Kalia Network
+    security_contact: info@kalia.network
+    website: https://kalia.network
+  jailed: false
+  min_self_delegation: "1"
+  operator_address: genesisvaloper1mytrxvvmmv9f9j7y7zx75u6t7axqxqryryl5zv
+  status: BOND_STATUS_BONDED
+  tokens: "23447582626837449594140"
+  unbonding_height: "4583576"
+  unbonding_time: "2022-10-28T17:51:03.848054714Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-06-08T19:46:20.129774912Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: a/SE+YrVZmcxtlNsgoI30AjiPjYa1ds7VMd6uclAMJ0=
+  delegator_shares: "1251092807459981358993.375866118368205503"
+  description:
+    details: Fe|Iron
+    identity: ""
+    moniker: Iron | arslanthevalidator
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1mwe0fuytlue7dcpdc4avznm05v0u7jye5z2lx6
+  status: BOND_STATUS_UNBONDED
+  tokens: "1250467392593613252016"
+  unbonding_height: "3908258"
+  unbonding_time: "2022-09-02T21:56:22.699188991Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.100000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-08-23T20:45:30.212467985Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: VE/natC5t474rLcoZUJkUm05eTu4Kp2BIwEp0XIKZJA=
+  delegator_shares: "23401219849999999999998.000000000000000000"
+  description:
+    details: '#IBCGANG'
+    identity: 1DA7F229F22EA5D6
+    moniker: cyberG
+    security_contact: ""
+    website: https://www.cyberg.digital/
+  jailed: false
+  min_self_delegation: "1"
+  operator_address: genesisvaloper1mu4sv02tjnelgmg30vd0nx5yd022ty5y69u5da
+  status: BOND_STATUS_BONDED
+  tokens: "23401219849999999999998"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-01-12T14:54:15.286278409Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: PQupnjwQ+y5QUevXR7POxFsR2B+ROhRMpj8XS2QgKHo=
+  delegator_shares: "684769167068024270.441188077997104318"
+  description:
+    details: Stake with CMR, just relax and enjoy your GENESISL1 journey!
+    identity: 598AE59AB57CD3B4
+    moniker: CMR
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1uqfn5hpxhv2xzu53srqce0hl8sw278g6xjxq3u
+  status: BOND_STATUS_UNBONDED
+  tokens: "671142741171585938"
+  unbonding_height: "638278"
+  unbonding_time: "2022-01-15T15:13:36.197925431Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.100000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-07-17T00:57:22.747457823Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: lDP5uVfPCIS0CjXpFJwZx8BjDx9Xvgxv8zK19RUVoW4=
+  delegator_shares: "70028117553527516137539.310120314460617572"
+  description:
+    details: ""
+    identity: '-'
+    moniker: kriptosky
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1udq2ndqaq8z55zzyttc4haukg6226fwd4l47nx
+  status: BOND_STATUS_UNBONDED
+  tokens: "70007996726548700000000"
+  unbonding_height: "4076234"
+  unbonding_time: "2022-09-14T08:07:24.800312280Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.100000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-09-12T11:50:43.009710383Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: J/VhQMUcFlO7KEkffymwDgx4rN95nxsxoo6MwmNun4c=
+  delegator_shares: "396667966796679669015477.547754775477547724"
+  description:
+    details: Patience and a little effort!
+    identity: A0B5FF00B5460153
+    moniker: "\U0001D425\U0001D41E\U0001D42C\U0001D427\U0001D422\U0001D424 | \U0001D414\U0001D413\U0001D412\U0001D400"
+    security_contact: '@lesnik13utsa'
+    website: https://teletype.in/@lesnik13utsa
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1afvvw56w2uq64qmsurawkxdhu9r98e5ue2kthq
+  status: BOND_STATUS_BONDED
+  tokens: "396628300000000001048576"
+  unbonding_height: "3722696"
+  unbonding_time: "2022-08-21T06:02:09.829524112Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.010000000000000000"
+    update_time: "2021-12-01T07:45:19.117749176Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: ervwG7Q1A905tVk2N9bgMQ/3Hyb9EKp6xI0bVR1oFEc=
+  delegator_shares: "26640596083756229629874.415913539849751055"
+  description:
+    details: ""
+    identity: 5A9C376A5410F276
+    moniker: StakenShake
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1a3ruy0y097gsec6dz8a0ar9ksal7ly3mr87r44
+  status: BOND_STATUS_UNBONDED
+  tokens: "26107938922495139877637"
+  unbonding_height: "2005001"
+  unbonding_time: "2022-04-20T02:24:35.492393575Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2021-12-15T15:02:06.585999062Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: 8DlzitVinghLR/ZMeyLYibCuvLw2ENRA8GdZfrKTOwA=
+  delegator_shares: "3505000500050005131585.158515851585158516"
+  description:
+    details: ""
+    identity: ""
+    moniker: CL1
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1ah28sgxursecg6mqkm5qsn8cupqxt4d6we42vy
+  status: BOND_STATUS_UNBONDED
+  tokens: "3504650000000000131072"
+  unbonding_height: "2521347"
+  unbonding_time: "2022-05-25T03:12:19.178865821Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.100000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-09-24T12:15:29.664174460Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: moucIfBYik+YWHJTuxIlFXPW5i6uDucxt9uWEkixpk4=
+  delegator_shares: "32405999997822630524288.000000000000000000"
+  description:
+    details: https://twitter.com/ibrahimarsln59
+    identity: B071C9766FA52230
+    moniker: ibrahimarslan
+    security_contact: ""
+    website: https://github.com/ibrahimarslann59
+  jailed: false
+  min_self_delegation: "1"
+  operator_address: genesisvaloper17nk38xr9085wyfana4kqyfmvvjr4fmp8ty6je4
+  status: BOND_STATUS_BONDED
+  tokens: "32405999997822630524288"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.090000000000000000"
+    update_time: "2022-08-26T00:39:49.769877674Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: v9DWe7+hQZCoin2bWZmjgwLN3f8SIcY7oJv35J8RuSs=
+  delegator_shares: "11924323738942377780.757268234455383005"
+  description:
+    details: ""
+    identity: ""
+    moniker: Ar
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper17l3a50ydhjujq87a33x0rkytt8d6ne5k8v4v88
+  status: BOND_STATUS_UNBONDED
+  tokens: "11803899998066893825"
+  unbonding_height: "4567244"
+  unbonding_time: "2022-10-26T17:38:23.629098358Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.100000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.050000000000000000"
+    update_time: "2022-08-26T14:55:10.717415041Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: iALPQJwAoq9mQoMMHqqT+n5YLQyiwcGXwlNf2MVUMIE=
+  delegator_shares: "56680502801564383397191.832543825830054706"
+  description:
+    details: we
+    identity: 62AD9059830AD374
+    moniker: superjax | wabut.club
+    security_contact: ""
+    website: ""
+  jailed: false
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1lpaf0c9yhv65mq6g27c5993ypvt8e0nsxlwmmm
+  status: BOND_STATUS_BONDED
+  tokens: "56674834844270488052307"
+  unbonding_height: "4766073"
+  unbonding_time: "2022-11-20T00:26:06.533956231Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.200000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2022-08-15T12:07:09.170967201Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: lLT6mxvyqqG2cebV8e+b0FPGaNJ7rh0jiknpmKY8WVE=
+  delegator_shares: "30028297921506649058350.000000000000000000"
+  description:
+    details: Per Consensum Ad Astra
+    identity: F470AD9EE3EA5EB9
+    moniker: Rhodium | mahof
+    security_contact: ""
+    website: www.mahof.info
+  jailed: false
+  min_self_delegation: "1"
+  operator_address: genesisvaloper1lrx3mrvna9urqcmsph3yffhrea4pj4tefmuzr3
+  status: BOND_STATUS_BONDED
+  tokens: "30028297921506649058350"
+  unbonding_height: "0"
+  unbonding_time: "1970-01-01T00:00:00Z"
+- commission:
+    commission_rates:
+      max_change_rate: "0.010000000000000000"
+      max_rate: "0.990000000000000000"
+      rate: "0.100000000000000000"
+    update_time: "2021-12-02T18:05:05.083033586Z"
+  consensus_pubkey:
+    '@type': /cosmos.crypto.ed25519.PubKey
+    key: W1aW+rEO8zAJMY7q9UM9rZzcNp/kIFr+fDRrTa3cK90=
+  delegator_shares: "10203040144517923.614700551665581849"
+  description:
+    details: ""
+    identity: ""
+    moniker: ancients
+    security_contact: ""
+    website: ""
+  jailed: true
+  min_self_delegation: "1000000"
+  operator_address: genesisvaloper1lk2mfc2ngqzy4sky22v3kcz6dkf8zzkknvphj0
+  status: BOND_STATUS_UNBONDED
+  tokens: "10000000000000001"
+  unbonding_height: "408926"
+  unbonding_time: "2021-12-30T21:31:09.395689062Z"
+
